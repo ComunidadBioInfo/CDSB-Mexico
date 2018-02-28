@@ -8,8 +8,12 @@ La Comunidad pretende que, a través de cursos, talleres, congresos, y otros med
 
 Los objetivos principales de la comunidad son:
 
-•	Que gente no tan experta puede integrarse y aprender de otros.
-•	Apoyarnos en comunidad, colaborando al desarrollo de software nacional.
-•	Fomentar colaboraciones multidisciplinarias enfocadas a resolver problemas bioinformáticos.
-•	Convertir usuarios de software bioinformático en desarrolladores de software bioinformático.
-•	Proveer una plataforma de ayuda para que los desarrolladores de software participen en comunidades internacionales.
+-- Que gente no tan experta puede integrarse y aprender de otros.
+
+-- Apoyarnos en comunidad, colaborando al desarrollo de software nacional.
+
+-- Fomentar colaboraciones multidisciplinarias enfocadas a resolver problemas bioinformáticos.
+
+-- Convertir usuarios de software bioinformático en desarrolladores de software bioinformático.
+
+-- Proveer una plataforma de ayuda para que los desarrolladores de software participen en comunidades internacionales.
