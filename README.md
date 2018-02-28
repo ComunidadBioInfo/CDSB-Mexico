@@ -1,6 +1,5 @@
-# CDSB-México
-Comunidad de Desarrolladores de Software en Boinformática - México
-
+# Comunidad de Desarrolladores de Software en Boinformática - México
+### CDSB-México
 
 La comunidad de desarrolladores de Software en Bioinformática, nace de la inquietud por incentivar la participación y colaboración de gente especializada en Bioinformática y Genómica, para contribuir o emprender en el desarrollo de software libre a nivel internacional. 
 
