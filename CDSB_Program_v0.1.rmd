@@ -9,6 +9,7 @@ output:
 
 ## Comunidad de Desarrolladores de Software en Bioinformática
 
+### R/Bioconductor Developers Workshop 2018
 
   * Conference webpage: http://cdsb.org/BioCDevelopers2018
   * Where: Centro de Ciencias Genómicas, Cuernavaca, México
