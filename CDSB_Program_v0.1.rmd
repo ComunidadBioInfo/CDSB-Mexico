@@ -12,11 +12,13 @@ output:
 ### R/Bioconductor Developers Workshop 2018
 
   * Conference webpage: http://cdsb.org/BioCDevelopers2018
-  * Where: Centro de Ciencias Genómicas, Cuernavaca, México
-  * When: Workshop July 30  - August 3, 2018
-  * On twitter: #
+  * Where: Centro de Ciencias Gen??micas, Cuernavaca, México
+  * When: Workshop July 30 – August 3, 2018
+  * On twitter: #CDSBMexico
+  * On facebook: #CDSBMexico
   * Public etherpad: https://public.etherpad-mozilla.org/p/20-07-30-CDSB-2018
-  * On youtube: 
+  * On youtube:
+
 
 
 ## Introduction
